@@ -1,0 +1,9 @@
+
+let fullName = "KAZMIRA AMOR SANTOS";   
+let age = 20;            
+let favoriteNumber = 18;         
+let favoriteColor = "Pink"; 
+console.log("Full Name:", fullName);
+console.log("Age:", age);
+console.log("Favorite Number:", favoriteNumber);
+console.log("Favorite Color:", favoriteColor);
